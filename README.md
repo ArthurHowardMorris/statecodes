@@ -10,5 +10,5 @@
 import delimited "https://raw.githubusercontent.com/ArthurHowardMorris/statecodes/main/statecodes.csv", clear
 ```
 
-## TODO:
-- [ ] Add a simple zip-state crosswalk for ea. decade using [this](https://www.huduser.gov/portal/datasets/usps_crosswalk.html)
+<!-- ## TODO:
+- [ ] Add a simple zip-state crosswalk for ea. decade using [this](https://www.huduser.gov/portal/datasets/usps_crosswalk.html) -->
