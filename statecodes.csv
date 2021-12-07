@@ -1,4 +1,4 @@
-﻿long,str2,fips
+﻿statestrl,statestr2,fips
 Alabama,AL,1
 Alaska,AK,2
 Arizona,AZ,4
@@ -54,4 +54,3 @@ Guam,GU,66
 Northern Mariana Islands,MP,69
 Puerto Rico,PR,72
 Virgin Islands,VI,78
-,,
